@@ -1,4 +1,4 @@
-#Hey Everyone, I'm Kyame (Key-ah-me) 👋
+#Hey Everyone, I'm Kyame (Key-yah-me) 👋
 
 - I’m currently a student attending York College of the City University of New York
 - I’m majoring in Computer Science and minoring in Mathematics
