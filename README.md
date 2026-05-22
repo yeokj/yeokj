@@ -1,4 +1,4 @@
-#Hey Everyone, I'm Kyame (Key-yah-me) 👋
+## Hey Everyone, I'm Kyame (Key-yah-me) 👋
 
 - 🎓 I’m a Computer Science major and Mathematics minor at York College (CUNY)
 - 💻 Currently learning C++, Python, and Java 
